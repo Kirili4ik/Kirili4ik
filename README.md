@@ -6,7 +6,7 @@
 - 🌱 Learning RL and Large Scale DL
 - 👨🏻‍🎓 A 4th year student at [BCS HSE](https://cs.hse.ru/en/)
 - 💡 Looking forward to both developing and researching in DL  
-- 📫 How to reach me: [Telegram](https://t.me/Kirili4ik), [Twitter](https://twitter.com/kirili4ik)
+- 📫 How to reach me: [Telegram](https://t.me/Kirili4ik), [Twitter](https://twitter.com/kirili4ik), [my CV](https://github.com/Kirili4ik/pres-n-articles/blob/master/CV_Kirill_Gelvan.pdf)
 
 
 <!-- ### 📊 GitHub Stats:
