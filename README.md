@@ -1,5 +1,5 @@
-### Hi there 👋, 
-### I'm currently:
+### Hello there 👋, 
+####  I'm currently:
 
 <!-- **Kirili4ik/Kirili4ik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
