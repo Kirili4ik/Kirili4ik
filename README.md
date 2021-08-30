@@ -38,7 +38,7 @@ Currently I am looking forward to both developing and researching in **Deep Lear
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirili4ik&hide=jupyter%20notebook&layout=compact)
 
-### 👨‍🏫 Projects (Pinned):
+### 👨‍🏫 Projects:
 
 
 <!--
