@@ -1,7 +1,7 @@
 # Hello there! I'm Kirill 👋
-I am a new grad from [BCs Applied Mathematics and Informatics](https://cs.hse.ru/en/). 
+I am a new grad 👨‍🎓 from [BCs Applied Mathematics and Informatics](https://cs.hse.ru/en/). Currently I am looking forward to both developing and researching in **Deep Learning**. 
 
-Currently I am looking forward to both developing and researching in **Deep Learning**. In my spare time, I like learning something new about DL and spreading the knowledge to others. For more information, please check my pinned projects, [presentations](https://github.com/Kirili4ik/pres-n-articles) or [CV](https://github.com/Kirili4ik/pres-n-articles/blob/master/CV_Kirill_Gelvan.pdf)🤗!
+In my spare time, I like learning something new about DL and spreading the knowledge to others. For more information, please check my [pinned projects](https://github.com/kirili4ik#-projects), [presentations](https://github.com/Kirili4ik/pres-n-articles) or [CV](https://github.com/Kirili4ik/pres-n-articles/blob/master/CV_Kirill_Gelvan.pdf)! 🤗
 
 	
 **Field of interests**: DL for Audio, NLP, Generative Models
