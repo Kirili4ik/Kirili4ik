@@ -25,9 +25,6 @@ Currently I am looking forward to both developing and researching in **Deep Lear
   <a href="https://www.t.me/kirili4ik/">
       <img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/kirili4ik">
-      <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
   <a href="">
   <img align="left" src="https://img.shields.io/github/followers/kirili4ik?style=social">
   </a>
