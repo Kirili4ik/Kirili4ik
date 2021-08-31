@@ -13,11 +13,11 @@ In my spare time, I like learning something new about DL and spreading the knowl
 - **Applications**:&emsp;&nbsp;&nbsp; git, bash
 
 
-<h3 aling="center"> 📊 General GitHub stats: &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📫 How to reach me: </h3> 
+<h3 aling="center"> 📊 General GitHub stats: &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📫 How to reach me: </h3> 
 
 <p align = 'center'>
   <a href="https://github.com/Kirili4ik/pres-n-articles/blob/master/CV_Kirill_Gelvan.pdf">
-      <img align="center" src="https://img.shields.io/badge/-Complete%20CV-important"/>
+      <img align="center" src="https://img.shields.io/badge/-Full%20CV-important"/>
   </a>
   <a href="https://www.linkedin.com/in/kirili4ik/">
       <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
