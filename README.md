@@ -10,7 +10,7 @@ In my spare time, I like learning something new about DL and spreading the knowl
 ### 🛠️ Skills 
 - **Programming**: &emsp;Python, SQL, C++
 - **ML/DL**:  &emsp;&emsp;&emsp;&emsp;  PyTorch, NumPy, SciPy, pandas, scikit-learn
-- **Applications**:&emsp;&nbsp;&nbsp; git, bash
+- **Applications**:&emsp;&nbsp;&nbsp; git, bash, Docker
 
 
 <h3 aling="center"> 📊 General GitHub stats: &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ℹ️ More info about me:&nbsp; </h3> 
