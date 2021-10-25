@@ -35,6 +35,8 @@ In my spare time, I like learning something new about DL and spreading the knowl
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirili4ik&hide=jupyter%20notebook&layout=compact&theme=dark)
 
+Check [a demo of chatting with me @ Huggingface Spaces](https://huggingface.co/spaces/Kirili4ik/chat-with-Kirill) !
+
 ### 👨‍🏫 Projects:
 
 
