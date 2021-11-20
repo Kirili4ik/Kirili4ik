@@ -2,9 +2,9 @@
 Currently I am an NLP engineer at Sberbank. Our team is _creating a DL framework on Pytorch - AutoNER_. We are also:
 - Training various models (ex. BERT, RoBERTa, Longformer) for business projects 👨‍💼
 - Researching Active and Meta Learning 👨‍🔬
-- Participating in the development of the Low-code/No-code ML-ops platform for document processing 💻
+- Participating in the development of the Low-code and No-code ML-ops platforms for document processing 💻
 
-Recently I graduated 👨‍🎓 from [BCs Applied Mathematics and Informatics](https://cs.hse.ru/en/) and now I'm happy to share my experience [leading practical lessons at DL course](https://github.com/Kirili4ik/iad-deep-learning) at the faculty of CS.
+Recently I have graduated 👨‍🎓 from [BCs Applied Mathematics and Informatics](https://cs.hse.ru/en/) and now I'm happy to share my experience [leading practical lessons at DL course](https://github.com/Kirili4ik/iad-deep-learning) at the faculty of CS.
 
 In my spare time, I like learning something new about DL and spreading the knowledge to others. For more information, please check my [pinned projects](https://github.com/kirili4ik#-projects), [presentations](https://github.com/Kirili4ik/pres-n-articles) or [CV](https://github.com/Kirili4ik/pres-n-articles/blob/master/CV_Kirill_Gelvan.pdf) 🤗
 
