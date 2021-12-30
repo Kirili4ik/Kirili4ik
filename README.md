@@ -8,8 +8,9 @@ Recently I have graduated 👨‍🎓 from [BCs Applied Mathematics and Informat
 
 In my spare time, I like learning something new about DL and spreading the knowledge to others. For more information, please check my [pinned projects](https://github.com/kirili4ik#-projects), [presentations](https://github.com/Kirili4ik/pres-n-articles) or [CV](https://github.com/Kirili4ik/pres-n-articles/blob/master/CV_Kirill_Gelvan.pdf) 🤗
 
-Check [a demo of chatting with me @ Huggingface Spaces](https://huggingface.co/spaces/Kirili4ik/chat-with-Kirill) !
-
+Side projects:
+- [A demo of chatting with me @ Huggingface Spaces](https://huggingface.co/spaces/Kirili4ik/chat-with-Kirill)
+- [Russian telegram bot for text summarization](https://t.me/summarization_bot)
 	
 **Field of interests**: DL for Audio, NLP, Generative Models
 
