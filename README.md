@@ -41,8 +41,8 @@ In my spare time, I like learning something new about DL and spreading the knowl
 
 ### 👨‍🏫 Projects:
 
-- [A demo of chatting with me @ Huggingface Spaces](https://huggingface.co/spaces/Kirili4ik/chat-with-Kirill)
-- [Russian telegram bot for dialogue summarization](https://t.me/summarization_bot)
+- [A demo of chatting with me @ Huggingface Spaces](https://huggingface.co/spaces/Kirili4ik/chat-with-Kirill) [DialoGPT-3 based]
+- [Russian telegram bot for dialogue summarization](https://t.me/summarization_bot) [mBART based]
 - And more! See pinned projects below:
 
 
