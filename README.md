@@ -41,8 +41,8 @@ In my spare time, I like learning something new about DL and spreading the knowl
 
 ### 👨‍🏫 Projects:
 
-- A demo of chatting with me @ [Huggingface Spaces](https://huggingface.co/spaces/Kirili4ik/chat-with-Kirill") [DialoGPT-3 based] <a href="https://huggingface.co/Kirili4ik/ruDialoGpt3-medium-finetuned-telegram"> <img alt="Model" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-ruDialoGPT3-blueviolet"> </a> <a href="https://huggingface.co/spaces/Kirili4ik/chat-with-Kirill"> <img alt="Spaces" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue"> </a>
 - Russian [telegram bot](https://t.me/summarization_bot) for dialogue summarization [mBART based] <a href="https://huggingface.co/Kirili4ik/mbart_ruDialogSum"> <img alt="Model" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-mbart__ruDialogSum-blueviolet"> </a> <a href="https://t.me/summarization_bot"> <img alt="tg" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"> </a>
+- A demo of chatting with me @ [Huggingface Spaces](https://huggingface.co/spaces/Kirili4ik/chat-with-Kirill") [DialoGPT-3 based] <a href="https://huggingface.co/Kirili4ik/ruDialoGpt3-medium-finetuned-telegram"> <img alt="Model" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-ruDialoGPT3-blueviolet"> </a> <a href="https://huggingface.co/spaces/Kirili4ik/chat-with-Kirill"> <img alt="Spaces" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue"> </a>
 - And a lot more! See pinned projects below:
 
 
