@@ -1,7 +1,7 @@
 # Hello there! I'm Kirill 👋🏻
 Currently I am an NLP engineer at Sberbank. Our team is _creating a DL framework on Pytorch - AutoNER_. We are also:
 - Training various models (ex. BERT, RoBERTa, Longformer) for business projects 👨‍💼
-- Researching Active and Meta Learning 👨‍🔬
+- Researching Active and Meta Learning 👨‍🔬  ([blogpost📜](https://habr.com/ru/company/sberbank/blog/649609/) with results)
 - Participating in the development of the Low-code and No-code ML-ops platforms for document processing 💻
 
 Recently I have graduated 👨‍🎓 from [BCs Applied Mathematics and Informatics](https://cs.hse.ru/en/) and now I'm happy to share my experience [leading practical lessons at DL course](https://github.com/Kirili4ik/iad-deep-learning) at the faculty of CS.
