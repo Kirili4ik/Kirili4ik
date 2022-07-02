@@ -1,14 +1,17 @@
 # Hello there! I'm Kirill 👋🏻
-Currently I am an NLP engineer at Sberbank. Our team is _creating a DL framework on Pytorch - AutoNER_. We are also:
-- Training various models (ex. BERT, RoBERTa, Longformer) for business projects 👨‍💼
-- Researching Active and Meta Learning 👨‍🔬  ([blogpost📜](https://habr.com/ru/company/sberbank/blog/649609/) with results)
-- Participating in the development of the Low-code and No-code ML-ops platforms for document processing 💻
+Currently I am an NLP engineer at [iFriend.ai](https://www.ifriend.ai/). Our team is creating a virtual friend for all kind of purposes. Most of the time here I am working on **creating long-term memory for our chat bot**:
+- Using T5 for summarization and conditional question generation 🐱
+- Making the bot remember all the facts about him using some NDA magic 🪄
+- Researching and looking forward to using Retrieval-based models 👀
 
-Recently I have graduated 👨‍🎓 from [BCs Applied Mathematics and Informatics](https://cs.hse.ru/en/) and now I'm happy to share my experience [leading practical lessons at DL course](https://github.com/Kirili4ik/iad-deep-learning) at the faculty of CS.
+
+Previously I was creating👨‍💼 a Pytorch-based DL framework AutoNER at Sberbank. Alongside was the research👨‍🔬 of Active and Meta Learning ([my blogpost📜](https://habr.com/ru/company/sberbank/blog/649609/) on habr).
+
+In 2021 I graduated👨‍🎓 from [BCs Applied Mathematics and Informatics](https://cs.hse.ru/en/) and now I'm happy to share my experience [leading practical lessons at DL course](https://github.com/Kirili4ik/iad-deep-learning) at the faculty of CS.
 
 In my spare time, I like learning something new about DL and spreading the knowledge to others. For more information, please check my [pinned projects](https://github.com/kirili4ik#-projects), [presentations](https://github.com/Kirili4ik/pres-n-articles) or [CV](https://github.com/Kirili4ik/pres-n-articles/blob/master/CV_Kirill_Gelvan.pdf) 🤗
 	
-**Field of interests**: DL for Audio, NLP, Generative Models
+**Field of interests**: NLP, DL for Audio, Generative Models
 
 ### 🛠️ Skills 
 - **Programming**: &emsp;Python, SQL, C++
