@@ -1,5 +1,5 @@
 # Hello there! I'm Kirill 👋🏻
-Currently I am an NLP engineer at [iFriend.ai](https://www.ifriend.ai/). Our team is creating a virtual friend for all kind of purposes. Most of the time here I am working on **creating long-term memory for our chat bot**:
+Currently I am an NLP engineer at [iFriend.ai](https://www.journeyapp.ai/). Our team is creating a virtual friend for all kind of purposes. Most of the time here I am working on **creating long-term memory for our chat bot**:
 - Using T5 for summarization and conditional question generation 🐱
 - Making the bot remember all the facts about him using some NDA magic 🪄
 - Researching and looking forward to using Retrieval-based models 👀
