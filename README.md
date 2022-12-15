@@ -5,7 +5,7 @@ Currently I am an NLP engineer at [iFriend.ai](https://www.journeyapp.ai/). Our 
 - Researching and looking forward to using Retrieval-based models 👀
 
 
-Previously I was creating👨‍💼 a Pytorch-based DL framework AutoNER at Sberbank. Alongside was the research👨‍🔬 of Active and Meta Learning ([my blogpost📜](https://habr.com/ru/company/sberbank/blog/649609/) on habr).
+Previously I was creating👨‍💼 a Pytorch-based DL framework AutoNER. Alongside was the research👨‍🔬 of Active and Meta Learning ([my blogpost📜](https://habr.com/ru/company/sberbank/blog/649609/) on habr).
 
 In 2021 I graduated👨‍🎓 from [BCs Applied Mathematics and Informatics](https://cs.hse.ru/en/) and now I'm happy to share my experience [leading practical lessons at DL course](https://github.com/Kirili4ik/iad-deep-learning) at the faculty of CS.
 
