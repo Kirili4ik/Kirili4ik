@@ -39,7 +39,7 @@ In my spare time, I like learning something new about DL and spreading the knowl
   </a>
 </p> 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirili4ik&hide=jupyter%20notebook&layout=compact&theme=dark)
+%%%%%%%%![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirili4ik&hide=jupyter%20notebook&layout=compact&theme=dark)
 
 
 ### 👨‍🏫 Projects:
