@@ -39,7 +39,6 @@ In my spare time, I like learning something new about DL and spreading the knowl
   </a>
 </p> 
 
-%%%%%%%%![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirili4ik&hide=jupyter%20notebook&layout=compact&theme=dark)
 
 
 ### 👨‍🏫 Projects:
@@ -56,6 +55,8 @@ In my spare time, I like learning something new about DL and spreading the knowl
 
 
 <!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirili4ik&hide=jupyter%20notebook&layout=compact&theme=dark)
+
 
 #### Main
 - [MUSE as Service](https://github.com/dayyass/muse_as_service) - REST API for sentence tokenization and embedding using Multilingual Universal Sentence Encoder
