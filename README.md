@@ -1,8 +1,8 @@
 # Hello there! I'm Kirill 👋🏻
 Currently I am an NLP engineer at [journeyapp.ai](https://www.journeyapp.ai/). Our team is creating a virtual friend for all kind of purposes. Most of the time here I am working on **creating long-term memory for our chat bot**:
-- Using T5 for summarization and conditional question generation 🐱
-- Making the bot remember all the facts about him using some NDA magic 🪄
-- Researching and looking forward to using Retrieval-based models 👀
+- Creating a model for generating questions on previous day dialog 🐱
+- Replacing rule-based classification with a distilled and quantized BERT-like models 🪄
+- Using T5 for summarization and conditional question generation 👀
 
 
 Previously I was creating👨‍💼 a Pytorch-based DL framework AutoNER. Alongside was the research👨‍🔬 of Active and Meta Learning ([my blogpost📜](https://habr.com/ru/company/sberbank/blog/649609/) on habr).
