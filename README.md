@@ -1,5 +1,7 @@
 # Hello there! I'm Kirill 👋🏻
-Currently I am an NLP engineer at [Eva AI](https://www.evaapp.ai/). Our team is creating a virtual friend for all kind of purposes. Most of the time here I am working on **creating long-term memory for our chat bot**:
+Currently I am a [TUM](https://www.tum.de/) Student 👨‍🎓 at Mathematics in Data Science program. 
+
+Last year I was an NLP engineer at [Eva AI](https://www.evaapp.ai/). Our team is creating a virtual friend for all kind of purposes. Most of the time here I am working on **creating long-term memory for our chat bot**:
 - Creating a model for generating questions on previous day dialog 🐱
 - Replacing rule-based classification with a distilled and quantized BERT-like models 🪄
 - Using T5 for summarization and conditional question generation 👀
