@@ -16,7 +16,7 @@ In my spare time, I like learning something new about DL and spreading the knowl
 **Field of interests**: NLP, DL for Audio, Generative Models
 
 ### 🛠️ Skills 
-- **Programming**: &emsp;Python, SQL, C++
+- **Programming**: &emsp;Python, C++, SQL
 - **ML/DL**:  &emsp;&emsp;&emsp;&emsp;  PyTorch, NumPy, SciPy, pandas, scikit-learn
 - **Applications**:&emsp;&nbsp; git, bash, Docker
 
