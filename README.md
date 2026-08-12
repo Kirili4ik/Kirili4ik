@@ -1,7 +1,7 @@
 # Hello there! I'm Kirill 👋🏻
-Currently I am a Researcher at AI Agents Team at [Jetbrains](https://www.jetbrains.com/) and a [TUM](https://www.tum.de/) Student 👨‍🎓 at Mathematics in Data Science program.
+Currently I am a Researcher at AI Agents Team at [Jetbrains](https://www.jetbrains.com/) and recently I have finished [TUM](https://www.tum.de/) Masters program 👨‍🎓 at Mathematics in Data Science program.
 
-In the team we are exploring the capabilities of distillation of LLMs for AI Agents.
+In the team we are exploring better ways to post-train the in-house and open-source LLM models.
 
 
 Previously I was an NLP engineer at [Eva AI](https://www.evaapp.ai/). Most of the time there I was working on creating long-term memory for our chat bot (T5 for summarization & question-generation, BERT-like quantized and distilled classifiers, building RAG from scratch, etc.)
