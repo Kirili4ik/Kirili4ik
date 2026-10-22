@@ -1,5 +1,5 @@
 # Hello there! I'm Kirill 👋🏻
-Currently I am a Researcher at AI Agents Team at [Jetbrains](https://www.jetbrains.com/) and recently I have finished [TUM](https://www.tum.de/) Masters program 👨‍🎓 at Mathematics in Data Science program.
+Currently I am an AI Post-Training Researcher at [Jetbrains](https://www.jetbrains.com/) and recently I have finished [TUM](https://www.tum.de/) Masters program 👨‍🎓 at Mathematics in Data Science program.
 
 In the team we are exploring better ways to post-train the in-house and open-source LLM models.
 
